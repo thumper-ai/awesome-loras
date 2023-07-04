@@ -13,7 +13,7 @@ https://pypi.org/project/plamtral/
 https://github.com/huggingface/peft
 
 # Lora Hubs/ Repositories 
-https://adapterhub.ml/
+https://adapterhub.ml
 https://civitai.com/models/26311/fallout-or-super-mutants
 *** warning some content on civit.ai is NSFW 
 
