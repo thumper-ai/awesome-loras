@@ -36,6 +36,7 @@ https://bdtechtalks.com/2023/05/22/what-is-lora/#:~:text=LoRA%2C%20proposed%20in
 
 ## Repos:
 * https://github.com/kohya-ss/sd-scripts
+* https://huggingface.co/docs/diffusers/training/lora
 
 ## Open Source UI
 * https://github.com/vladmandic/automatic
