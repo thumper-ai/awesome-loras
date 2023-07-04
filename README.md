@@ -15,7 +15,7 @@ https://bdtechtalks.com/2023/05/22/what-is-lora/#:~:text=LoRA%2C%20proposed%20in
 # Lora Hubs/ Repositories 
 * https://adapterhub.ml
 * https://civitai.com/models/26311/fallout-or-super-mutants
-*** warning some content on civit.ai is NSFW 
+*** warning some content on civitai.com is NSFW 
 
 * thumper.ai is launching a lora marketplace for images in about 2-3 months!
 
