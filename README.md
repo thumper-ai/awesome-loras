@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=3uzCNrQao3o
 https://www.youtube.com/watch?v=TpuDOsuKIBo
 
 ## Repos:
-	https://github.com/kohya-ss/sd-scripts
+https://github.com/kohya-ss/sd-scripts
 
 ## Open Source UI
 https://github.com/vladmandic/automatic
